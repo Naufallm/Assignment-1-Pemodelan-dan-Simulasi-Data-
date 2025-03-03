@@ -21,14 +21,22 @@ Menjalankan simulasi dalam periode tertentu dan mencatat statistik seperti waktu
 4. Hasil simulasi akan ditampilkan dalam bentuk log kedatangan pelanggan, waktu layanan, dan statistik performa sistem.
 
 ## Contoh Output ##
-`` 
+
 Customer 1 arrived at 0.12 minutes.
+
 Customer 1 started service after waiting 0.00 minutes.
+
 Customer 2 arrived at 0.34 minutes.
+
 Customer 2 started service after waiting 0.00 minutes.
+
 ...
+
 === Simulation Summary ===
+
 Average Wait Time: 0.00 minutes
+
 Max Wait Time: 0.00 minutes
+
 Min Wait Time: 0.00 minutes
-``
+
