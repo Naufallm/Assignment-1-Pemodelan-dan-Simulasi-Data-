@@ -20,7 +20,7 @@ Menjalankan simulasi dalam periode tertentu dan mencatat statistik seperti waktu
 3. Menjalankan simulasi dari code tersebut
 4. Hasil simulasi akan ditampilkan dalam bentuk log kedatangan pelanggan, waktu layanan, dan statistik performa sistem.
 
-## Contoh Output ##
+# Contoh Output #
 
 Customer 1 arrived at 0.12 minutes.
 
